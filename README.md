@@ -23,4 +23,4 @@ $python sholat.py</br>
 - https://facebook.com/dikdikboedaxkarawang
 - https://t.me/Sidik28
 - @Ahmad Sidik
--Whatsapl : 082141009908
+-Whatsap : 082141009908
