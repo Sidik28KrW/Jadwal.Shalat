@@ -14,7 +14,7 @@ alat semacam alarm untuk mengingatkan kita pada waktu sholat</br>
 $pkg update && pkg upgrade</br>
 $pkg install python git mpv</br>
 $git clone :https://github.com/Sidik28KrW/Jadwal.Shalat</br>
-$cd sholat</br>
+$cd Jadwal.Shalat</br>
 $pip install -r modul.txt</br>
 $python sholat.py</br>
 
