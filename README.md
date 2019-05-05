@@ -13,13 +13,13 @@ alat semacam alarm untuk mengingatkan kita pada waktu sholat</br>
 # Cara Install
 $pkg update && pkg upgrade</br>
 $pkg install python git mpv</br>
-$git clone https://github.com/karjok/sholat</br>
+$git clone :https://github.com/Sidik28KrW/Jadwal.Shalat</br>
 $cd sholat</br>
 $pip install -r modul.txt</br>
 $python sholat.py</br>
 
 # Kontak
-- https://github.com/om_karjok
-- https://facebook.com/karjok.pangesty.5
-- https://t.me/CRABS_ID
-- @karjok.pangesty
+- Whatsapp : 082141009908
+
+
+
